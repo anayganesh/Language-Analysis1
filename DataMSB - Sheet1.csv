@@ -1,0 +1,50 @@
+Language,Consonants,Vowels,Rainfall (origin) in mm,Vegetation Density,VC Ratio ,Biome,Biome of Origin
+,,,,,,,
+Arabic,63,51,100,0.1,0.81,Desert,Desert
+Coptic,60,60,80,0.1,1,Desert,Desert
+Amharic,87,81,240,0.9,0.93,Desert,Desert
+Mongolian,85,75,150,0.1,0.88,Desert,Desert
+Kazakh,98,94,75,0.5,0.96,Desert,Grassland
+Navajo,84,89,190,0.8,1.06,Desert,Grassland
+Ojibwe,95,96,725,1.3,1.01,Temperate Forest,Temperate Forest
+English,66,65,730,2.5,0.98,Temperate Forest,Temperate Forest
+Greek,83,86,570,2.4,1.04,Shrubland/Temperate Forest,Temperate Forest
+Italian,98,95,640,2.8,0.97,Shrubland/Temperate Forest,Temperate Forest
+French,101,102,730,4,1.01,Temperate Forest,Temperate Forest
+German,134,99,550,3.8,0.74,Temperate Forest,Temperate Forest
+Swedish,104,85,400,2.3,0.82,Taiga,Temperate Forest
+Russian,117,96,500,1.1,0.821,Taiga,Temperate Forest
+Hungarian,145,140,100,3.9,0.97,Temperate Forest,Grassland
+Pashto,78,74,95,0.7,0.95,Alpine Desert,Grassland
+Hindi,94,83,600,1.5,0.88,Tropical Forest,Grassland
+Bengali,103,84,1600,3.4,0.82,Tropical Forest,Grassland
+Telugu,71,63,1000,1.7,0.89,Tropical Forest,Tropical Forest
+Malayalam,95,84,3800,4.1,0.88,Tropical Forest,Tropical Forest
+Kannada,76,70,500,0.8,0.92,Desert,Tropical Forest
+Tamil,102,88,1000,1.5,0.863,Tropical Forest,Tropical Forest
+Samoan,56,78,5000,5.9,1.4,Tropical Forest,Tropical Forest
+Thai,59,64,2500,4.8,1.09,Tropical Forest,Tropical Forest
+Tagalog,72,73,3000,4.1,1.01,Tropical Forest,Tropical Forest
+Zulu,61,59,800,0.8,0.97,Savanna,Savanna
+Swahili,46,52,900,1.7,1.13,Savanna,Savanna
+Fula,71,64,400,0.3,0.9,Tropical Forest,Savanna
+Igbo,69,70,1600,3,1.01,Tropical Forest,Tropical Forest
+Yoruba,68,71,1600,2.4,1.04,Tropical Forest,Tropical Forest
+Somali,68,74,190,0.4,1.1,Savanna,Savanna
+Inuktitut,91,83,400,0.1,0.91,Arctic,Arctic
+Aymara,45,37,125,0.2,0.82,Alpine Desert,Alpine Desert
+Korean,88,92,1000,2.4,1.05,Temperate Forest,Temperate Forest
+Japanese,91,89,1000,2.4,0.98,Temperate Forest,Temperate Forest
+Georgian,85,66,600,0.3,0.78,Taiga,Taiga
+Armenian,81,72,600,0.5,0.89,Taiga,Taiga
+Turkish,81,67,375,1.4,0.83,Shrubland/Temperate Forest,Grassland
+Wolof,74,60,3700,0.4,0.81,,
+Vietnamese,93,83,3800,4.5,0.89,Tropical Forest,Tropical Forest
+Khmer,88,76,2000,2.3,0.86,Tropical Forest,Tropical Forest
+Indonesian,75,65,4600,5.6,0.87,Tropical Forest,Tropical Forest
+Sinhala,75,65,2500,4.1,0.87,Tropical Forest,Tropical Forest
+PIE,36,27,350,1.2,0.75,Grassland,Grassland
+Waray-Waray,74,62,3000,4.2,0.84,Tropical Forest,Tropical Forest
+Scottish,67,68,745,1.1,1.02,Temperate Forest,Temperate Forest
+Bulgarian,69,59,600,2.9,0.86,Temperate Forest,Temperate Forest
+Albanian,67,73,625,2.7,1.09,Temperate Forest,Temperate Forest
